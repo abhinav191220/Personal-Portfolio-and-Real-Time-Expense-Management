@@ -1,5 +1,5 @@
 📖 Steps to Access & Download Project Source Code
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The complete source code for this project is hosted directly within this repository as a compressed **ZIP package**.
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and extract the project files to your loca
    - Right-click the downloaded .zip archive and select Extract All... (Windows) or double-click it (macOS / Linux).
 4. Open in IDE: Launch your preferred IDE (e.g., IntelliJ IDEA, VS Code or Eclipse) and open the newly extracted project folder.
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 > 💡 **Tip:** Alternatively, if you have Git installed, you can clone the entire repository directly using:
 > bash
 > git clone YOUR_GITHUB_REPOSITORY_URL
