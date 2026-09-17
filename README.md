@@ -25,8 +25,8 @@ Modern university students and young working professionals often struggle with f
 **Personal Portfolio & Real-Time Expense Management** resolves this friction by bridging daily cash outflow with long-term asset accumulation into an intuitive, high-performance financial command center. 
 
 The project delivers:
-1. **Core Java SE 17+ / JavaFX 21+ Desktop Specification:** Offline-first architecture using embedded SQLite database persistence via JDBC, thread-safe asynchronous API polling with `CompletableFuture`, Jackson JSON deserialization, and reactive JavaFX charts.
-2. **Interactive Interactive Web Dashboard:** Built with React 19, TypeScript, and Tailwind CSS to simulate the Java desktop environment in real-time within the browser.
+1. **Backend:** Offline-first architecture using embedded SQLite database persistence via JDBC, thread-safe asynchronous API polling with `CompletableFuture`, Jackson JSON deserialization, and reactive JavaFX charts. [ Majorly JAVA ]
+2. **Frontend:** Built with React 19, TypeScript, and Tailwind CSS to simulate the Java desktop environment in real-time within the browser. [ Majorly TypeScript ]
 
 ---
 
