@@ -1,0 +1,2 @@
+# Exclude the frontend folder from language stats
+src/frontend/** linguist-detectable=false
